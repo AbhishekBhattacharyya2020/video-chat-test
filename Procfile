@@ -1,0 +1,1 @@
+web: npm run devServer && peerjs --port 3001
